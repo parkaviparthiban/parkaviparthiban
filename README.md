@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Parkavi
+Here's my https://yourportfolio.site
 
-I'm a frontend developer focused on building elegant, responsive, and accessible web interfaces. I transform creative ideas into clean code and intuitive user experiences using a modern tech stack and a strong foundation in design.
+I'm an aspiring frontend developer focused on building elegant, responsive, and accessible web interfaces. I transform creative ideas into clean code and intuitive user experiences using a modern tech stack and a strong foundation in design.
 
 ---
 
