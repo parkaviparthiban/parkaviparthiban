@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Parkavi
-Here's my https://yourportfolio.site
+Here's my portfolio : [https://yourportfolio.site](https://parkaviparthiban.github.io/Portfolio/)
 
 I'm an aspiring frontend developer focused on building elegant, responsive, and accessible web interfaces. I transform creative ideas into clean code and intuitive user experiences using a modern tech stack and a strong foundation in design.
 
@@ -51,7 +51,7 @@ I specialize in frontend architecture, layout engineering, and integrating dynam
 ## 📬 Get in Touch
 
 - **LinkedIn:** [linkedin.com/in/parkavi-parthiban](https://www.linkedin.com/in/parkavi-parthiban-8558522a4)  
-- **Portfolio:** [yourportfolio.site](https://yourportfolio.site)  
+- **Portfolio:** [yourportfolio.site]((https://parkaviparthiban.github.io/Portfolio/))
 - **Email:** parkaviparthiban06@gmail.com
 
 ---
