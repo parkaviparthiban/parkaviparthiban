@@ -51,7 +51,7 @@ I specialize in frontend architecture, layout engineering, and integrating dynam
 ## 📬 Get in Touch
 
 - **LinkedIn:** [linkedin.com/in/parkavi-parthiban](https://www.linkedin.com/in/parkavi-parthiban-8558522a4)  
-- **Portfolio:** [yourportfolio.site]((https://parkaviparthiban.github.io/Portfolio/))
+- **Portfolio:** [yourportfolio.site](https://parkaviparthiban.github.io/Portfolio/)
 - **Email:** parkaviparthiban06@gmail.com
 
 ---
