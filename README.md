@@ -23,7 +23,7 @@ I specialize in frontend architecture, layout engineering, and integrating dynam
   [GitHub Repo →](https://github.com/yourusername/readme-generator)
 
 - **Portfolio Website** – Responsive and animated portfolio showcasing my work, skills, and certifications  
-  [GitHub Repo →](https://github.com/parkaviparthiban/portfolio)
+  [GitHub Repo →](https://github.com/parkaviparthiban/portfolio/)
 
 - E-Commerce Frontend with AI Chatbot – Responsive and user-friendly frontend for an online store, built using HTML, CSS, and JavaScript. Features an integrated AI-powered chatbot using OpenAI to assist users with product inquiries and basic support.
 -   [GitHub Repo →](https://github.com/parkaviparthiban/)
